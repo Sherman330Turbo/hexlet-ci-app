@@ -1,5 +1,7 @@
 # Example app for CI Hexlet course
 
+[![ci-hello-world](https://github.com/Sherman330Turbo/hexlet-ci-app/actions/workflows/ci-hello-world.yaml/badge.svg)](https://github.com/Sherman330Turbo/hexlet-ci-app/actions/workflows/ci-hello-world.yaml)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
